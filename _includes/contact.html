@@ -1,0 +1,9 @@
+    <!-- Contact Section -->
+    <section id="contact" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Contact</h2>
+                <p>Feel free to reach out to one of us.<br />We are {% for person in site.team %}<a href="{{ person.url }}">{{ person.name }}</a>{% if forloop.last == false %}, {% else%}{% endif %}{% endfor %}.</p>
+            </div>
+        </div>
+    </section>

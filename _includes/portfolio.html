@@ -1,0 +1,21 @@
+    <!-- Download Section -->
+    <section id="portfolio" class="content-section text-center">
+        <div class="portfolio-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Portfolio</h2>
+                    <div class="container-fluid">
+                        <div class="row">
+                        {% for project in site.projects %}
+                            <div class="col-xs-12 col-md-6">
+                                <a href="{{ project.url }}" target="_blank" class="thumbnail" title="{{ project.name }}">
+                                    <figure><img src="{{ project.thumbnail }}" class="img-rounded img-responsive" alt="{{ project.name }}"></figure>
+                                </a>
+                            </div>
+                        {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

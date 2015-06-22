@@ -1,6 +1,1 @@
-Whiskey Muzzle Website
-=========================
-
-
-=========
-Powered by [Jekyll](http://jekyllrb.com/); theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+![haters](http://axisofstevil.s3.amazonaws.com/stuff/haters.gif)

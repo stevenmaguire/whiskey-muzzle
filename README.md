@@ -1,1 +1,1 @@
-![haters](http://axisofstevil.s3.amazonaws.com/stuff/life-is-over-carwash.gif)
+![haters](https://g.vcr.bz/life-is-over-carwash.gif)

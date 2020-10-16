@@ -35,8 +35,8 @@ projects:
  - name: Jinx
    medium: film
    url: http://vimeo.com/stevenmaguire/jinx
-   thumbnail: http://whiskeymuzzle.com.s3.amazonaws.com/jinx-thumbnail.png
+   thumbnail: http://s3.amazonaws.com/www.whiskeymuzzle.com/jinx-thumbnail.png
  - name: ByDre.co
    medium: website
    url: http://bydre.co
-   thumbnail: http://whiskeymuzzle.com.s3.amazonaws.com/by-dreco-thumbnail.png
+   thumbnail: http://s3.amazonaws.com/www.whiskeymuzzle.com/by-dreco-thumbnail.png
